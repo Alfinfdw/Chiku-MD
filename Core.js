@@ -4817,7 +4817,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu =`Hii *${pushname}*,
 
-I am *chiku*, a bot  deploy by 🦋⃟≛⃝𝐀𝐘𝐔𝐒𝐇⃟≛⃝
+I am *Shubham*, a bot  deploy by Shubham 
 
    ♤《《╼━╼━━━━━━━━━━━》》♤
    
@@ -5052,7 +5052,7 @@ I am *chiku*, a bot  deploy by 🦋⃟≛⃝𝐀𝐘𝐔𝐒𝐇⃟≛⃝
 🍁 Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
 
  『  *${global.BotName}*  』
- Powered by: *Ayush*
+ Powered by: *Shubham*
 `
 
 
